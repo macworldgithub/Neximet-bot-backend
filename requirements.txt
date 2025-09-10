@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+pydantic
+openai
+python-dotenv
