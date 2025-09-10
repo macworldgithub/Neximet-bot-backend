@@ -82,8 +82,8 @@ def send_appointment_email(session_id, full_name, email, phone, preferred_day, p
         # Email configuration
         smtp_server = "smtp.hostinger.com"
         smtp_port = 587
-        sender_email = "info@omnisuiteai.com"
-        sender_password = "Legacymasdasdasd23!!"
+        sender_email = "abc@gmail.com"
+        sender_password = "...!!"
         recipient_emails = ["info@omnisuiteai.com"]
         if email:
             recipient_emails.append(email)
